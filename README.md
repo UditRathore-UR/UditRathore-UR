@@ -69,7 +69,7 @@ My goal is to keep learning, build strong technical skills, and grow as a profes
 <div align="center">
 
 <a href="https://www.instagram.com/udit_rathore22">
-  <img src="https://img.shields.io/badge/Udit_rathore22-black?style=for-the-badge&logo=instagram&logoColor=white&label=instagram&labelColor=grey&color=black" alt="Instagram">
+  <img src="https://img.shields.io/badge/Udit__Rathore22-black?style=for-the-badge&logo=instagram&logoColor=white&label=instagram&labelColor=grey&color=pink" alt="Instagram">
 </a>
 &nbsp;
 <a href="https://x.com/0x_HimanshuX">
