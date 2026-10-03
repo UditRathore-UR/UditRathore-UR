@@ -54,13 +54,11 @@ My goal is to keep learning, build strong technical skills, and grow as a profes
 
 <div align="center">
 
+**My main personal website and online profile.** <br> <br>
+
 <a href="https://uditrathore-ur.github.io/Portfolio/">
   <img src="https://img.shields.io/badge/Uditrathore.portfolio.in-black?style=for-the-badge&logo=google%20chrome&logoColor=white&labelColor=grey&color=black" alt="Open Personal Website">
 </a>
-
-<br><br>
-
-**My main personal website and online profile.**
 
 </div>
 
@@ -71,7 +69,7 @@ My goal is to keep learning, build strong technical skills, and grow as a profes
 <div align="center">
 
 <a href="https://www.instagram.com/udit_rathore22">
-  <img src="https://img.shields.io/badge/Instagram-%40himanshuchandelkar-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  <img src="https://img.shields.io/badge/Udit_rathore22-black?style=for-the-badge&logo=instagram&logoColor=white&label=instagram&labelColor=grey&color=black" alt="Instagram">
 </a>
 &nbsp;
 <a href="https://x.com/0x_HimanshuX">
@@ -79,7 +77,7 @@ My goal is to keep learning, build strong technical skills, and grow as a profes
 </a>
 &nbsp;
 <a href="https://www.linkedin.com/in/udit-rathore-b83505368">
-  <img src="https://img.shields.io/badge/LinkedIn-himanshuchandelkar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  <img src="https://img.shields.io/badge/Udit_rathore-grey?style=for-the-badge&logo=linkedin&logoColor=white&label=linkedin&labelColor=grey&color=blue" alt="LinkedIn">
 </a>
 
 <br><br>
@@ -89,7 +87,7 @@ My goal is to keep learning, build strong technical skills, and grow as a profes
 </a>
 &nbsp;
 <a href="mailto:rathoreudit2007@gmail.com">
-  <img src="https://img.shields.io/badge/Email-contacthimanshuyt%40gmail.com-555555?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  <img src="https://img.shields.io/badge/rathoreudit2007%40gmail.com-grey?style=for-the-badge&logo=gmail&logoColor=white&label=mail&labelColor=grey&color=black" alt="Email">
 </a>
 
 </div>
