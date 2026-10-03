@@ -72,8 +72,7 @@ I’m a **good learner, adaptable, and consistent in my studies**. I like improv
 </a>
 &nbsp;
 <a href="https://x.com/UditRathore2007">
-  <img src="https://img.shields.io/badge/Uditrathore2007-black?style=for-the-badge&logo=X&logoColor=Black&label=x&labelColor=Grey&color=Black
-" alt="X">
+  <img src="https://img.shields.io/badge/Uditrathore2007-black?style=for-the-badge&logo=X&logoColor=Black&label=x&labelColor=Grey&color=Black" alt="X">
 </a>
 &nbsp;
 <a href="https://www.linkedin.com/in/udit-rathore-b83505368">
