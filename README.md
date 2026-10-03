@@ -25,7 +25,6 @@ I’m interested in **computers, technology, and programming** and enjoy learnin
 
 I’m a **good learner, adaptable, and consistent in my studies**. I like improving my skills through practice and exploring new technologies. I’m always open to learning, taking on new challenges, and gaining practical experience.
 
-My goal is to keep learning, build strong technical skills, and grow as a professional in the field of technology.
 ---
 
 ## Education
