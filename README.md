@@ -5,7 +5,7 @@
 **B.Tech (CSE) Student**  
 Sagar Institute of Science, Technology and Research, Bhopal
 
-📍 Bhopal, Madhya Pradesh, India
+📍 Bhopal, Madhya-Pradesh, India
 
 <br>
 
@@ -71,7 +71,7 @@ I’m a **good learner, adaptable, and consistent in my studies**. I like improv
   <img src="https://img.shields.io/badge/Udit__Rathore22-black?style=for-the-badge&logo=instagram&logoColor=white&label=instagram&labelColor=grey&color=pink" alt="Instagram">
 </a>
 &nbsp;
-<a href="https://x.com/0x_HimanshuX">
+<a href="https://x.com/UditRathore2007">
   <img src="https://img.shields.io/badge/X-%400x_HimanshuX-000000?style=for-the-badge&logo=x&logoColor=white" alt="X">
 </a>
 &nbsp;
