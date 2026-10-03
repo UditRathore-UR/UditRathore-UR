@@ -83,7 +83,7 @@ My goal is to keep learning, build strong technical skills, and grow as a profes
 <br><br>
 
 <a href="https://himanshuchandelkar.carrd.co/">
-  <img src="https://img.shields.io/badge/Carrd-himanshuchandelkar.carrd.co-111111?style=for-the-badge&logo=linktree&logoColor=white" alt="Carrd">
+  <img src="https://img.shields.io/badge/Uditrathore.carrd.co-black?style=for-the-badge&logo=carrd&logoColor=white&label=cardd&labelColor=grey&color=black" alt="Carrd">
 </a>
 &nbsp;
 <a href="mailto:rathoreudit2007@gmail.com">
