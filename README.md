@@ -81,7 +81,7 @@ I’m a **good learner, adaptable, and consistent in my studies**. I like improv
 
 <br><br>
 
-<a href="https://himanshuchandelkar.carrd.co/">
+<a href="https://uditrathore.carrd.co/">
   <img src="https://img.shields.io/badge/Uditrathore.carrd.co-black?style=for-the-badge&logo=carrd&logoColor=white&label=cardd&labelColor=grey&color=black" alt="Carrd">
 </a>
 &nbsp;
@@ -95,6 +95,6 @@ I’m a **good learner, adaptable, and consistent in my studies**. I like improv
 
 <div align="center">
 
-[**Website**](https://uditrathore-ur.github.io/Portfolio/) · [**LinkedIn**](https://www.linkedin.com/in/udit-rathore-b83505368) · [**Carrd**](https://himanshuchandelkar.carrd.co/)
+[**Website**](https://uditrathore-ur.github.io/Portfolio/) · [**LinkedIn**](https://www.linkedin.com/in/udit-rathore-b83505368) · [**Carrd**](https://uditrathore.carrd.co/)
 
 </div>
