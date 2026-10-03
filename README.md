@@ -10,7 +10,7 @@ Sagar Institute of Science, Technology and Research, Bhopal
 <br>
 
 <a href="https://uditrathore-ur.github.io/Portfolio/">
-  <img src="https://img.shields.io/badge/MY%20WEBSITE-himanshuchandelkar.social-111111?style=for-the-badge&logo=googlechrome&logoColor=white" alt="My Website">
+  <img src="https://img.shields.io/badge/Uditrathore.portfolio.in-black?style=for-the-badge&logo=google%20chrome&logoColor=white&labelColor=grey&color=black" alt="My Website">
 </a>
 
 </div>
@@ -55,7 +55,7 @@ My goal is to keep learning, build strong technical skills, and grow as a profes
 <div align="center">
 
 <a href="https://uditrathore-ur.github.io/Portfolio/">
-  <img src="https://img.shields.io/badge/himanshuchandelkar.social-OPEN%20WEBSITE-18181b?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Open Personal Website">
+  <img src="https://img.shields.io/badge/Uditrathore.portfolio.in-black?style=for-the-badge&logo=google%20chrome&logoColor=white&labelColor=grey&color=black" alt="Open Personal Website">
 </a>
 
 <br><br>
